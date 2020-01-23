@@ -4,49 +4,39 @@
   "title": "DAE",
   "description": "Spécification du modèle de données relatif aux DAE",
   "countryCode": "FR",
-  "homepage": "https://wwww.alkante.com",
-  "path": "https://www.alkante.com/clients/ars/dae/schema/schema.json",
+  "homepage": "https://wwww.geodae.sante.gouv.fr",
+  "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/schema.json",
   "resources": [
     {
       "title": "Exemple de fichier DAE avec des données invalides",
-      "path": "https://www.alkante.com/clients/ars/dae/schema/exemple_invalide.csv"
+      "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/exemple_invalide.csv"
     },
     {
       "title": "Exemple de fichier DAE avec une structure invalide",
-      "path": "https://www.alkante.com/clients/ars/dae/schema/exemple_invalide_structure.csv"
+      "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/exemple_invalide_structure.csv"
     },
     {
       "title": "Exemple de fichier DAE toutes les données invalides",
-      "path": "https://www.alkante.com/clients/ars/dae/schema/exemple_invalide_complet.csv"
+      "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/exemple_invalide_complet.csv"
     },
     {
       "title": "Exemple de fichier DAE valide",
-      "path": "https://www.alkante.com/clients/ars/dae/schema/exemple_valide.csv"
+      "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/exemple_valide.csv"
     }
   ],
   "sources": [
     {
-      "title": "Décret n° XXX du JJ mmmmmm AAAA relatif à l'accès sous forme électronique aux données essentielles des conventions de DAE",
-      "path": "https://www.legifrance.gouv.fr/jo_pdf.do?id=XXXXXX"
-    },
-    {
-      "title": "Format réglementaire pour la publication des données essentielles des conventions de DAE sur le dépôt Github de la mission Etalab​",
-      "path": "https://github.com/etalab/format-dae"
+      "title": "n° 2018-1259 du 27 décembre 2018 relatif à la base de données nationale des défibrillateurs automatisés externes",
+      "path": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037864893&categorieLien=id"
     }
   ],
-  "created": "2019-07-04",
-  "lastModified": "2019-07-04",
+  "created": "2020-01-01",
+  "lastModified": "2020-01-01",
   "version": "1.0.0",
   "contributors": [
     {
       "organisation": "Ministère des Solidarités et de la Santé",
-      "email": "",
-      "role": "author"
-    },
-    {
-      "title": "Alexandre Saintilan",
-      "organisation": "Alkante",
-      "email": "a.saintilan@alkante.com",
+      "email": "contact@geodae.sante.gouv.fr",
       "role": "author"
     }
   ],
