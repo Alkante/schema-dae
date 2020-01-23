@@ -30,8 +30,8 @@ Les informations partielles sont disponibles en opendata sur la plateforme Etala
 L’ensemble des outils de collecte et de diffusion des données s’appuient sur [Atlasanté](http://www.atlasante.fr/), le système d’information géographique mutualisé des Agences Régionales de Santé et des ministères sociaux.
 
 ## Voir aussi
-* [Fichier gabarit à télécharger au format csv]() (proposé par la DGS)
-* [Fichier gabarit à télécharger au format xlsx](https://scdl.opendatafrance.net/docs/templates/irve.xlsx) (généré automatiquement à partir du schéma)
+* [Fichier gabarit à télécharger au format csv](https://carto.atlasante.fr/IHM/cartes/ressources/dae/DGS-DAE_%20Base_de_donnees_nationale_Gabarit_declaration_donnees.csv) (proposé par la DGS)
+* [Fichier gabarit à télécharger au format xlsx](https://carto.atlasante.fr/IHM/cartes/ressources/dae/DGS-DAE_%20Base_de_donnees_nationale_Gabarit_declaration_donnees.xlsx) (généré automatiquement à partir du schéma)
 
 Pour poser une question, commenter, faire un retour d’usage ou contribuer à l’amélioration du modèle de données, vous pouvez :
 
