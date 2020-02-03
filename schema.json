@@ -5,23 +5,23 @@
   "description": "Spécification du modèle de données relatif aux DAE",
   "countryCode": "FR",
   "homepage": "https://wwww.geodae.sante.gouv.fr",
-  "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/schema.json",
+  "path": "https://gitlab.com/arsante/atlasante/schema-dae/raw/master/schema.json",
   "resources": [
     {
       "title": "Exemple de fichier DAE avec des données invalides",
-      "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/exemple_invalide.csv"
+      "path": "https://gitlab.com/arsante/atlasante/schema-dae/raw/master/exemple_invalide.csv"
     },
     {
       "title": "Exemple de fichier DAE avec une structure invalide",
-      "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/exemple_invalide_structure.csv"
+      "path": "https://gitlab.com/arsante/atlasante/schema-dae/raw/master/exemple_invalide_structure.csv"
     },
     {
       "title": "Exemple de fichier DAE toutes les données invalides",
-      "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/exemple_invalide_complet.csv"
+      "path": "https://gitlab.com/arsante/atlasante/schema-dae/raw/master/exemple_invalide_complet.csv"
     },
     {
       "title": "Exemple de fichier DAE valide",
-      "path": "https://raw.githubusercontent.com/Alkante35/schema-dae/master/exemple_valide.csv"
+      "path": "https://gitlab.com/arsante/atlasante/schema-dae/raw/master/exemple_valide.csv"
     }
   ],
   "sources": [
