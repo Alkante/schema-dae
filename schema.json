@@ -252,7 +252,7 @@
     {
       "name": "disp_h",
       "title": "Pour les DAE non-disponibles 24h/24, détail de la disponibilité de l'appareil",
-      "description": "Liste de valeurs séparées par '|' parmi : heures ouvrables, heures de nuit, 24h/24, non renseigné",
+      "description": "Liste de valeurs séparées par '|' parmi : heures ouvrables, heures de nuit, 24h/24, ou non renseigné (seul)",
       "type": "string",
       "constraints": {
         "required": true,
