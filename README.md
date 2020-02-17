@@ -36,7 +36,7 @@ L’ensemble des outils de collecte et de diffusion des données s’appuient su
 Pour poser une question, commenter, faire un retour d’usage ou contribuer à l’amélioration du modèle de données, vous pouvez :
 
 * Adresser un message à l’équipe données [contact@geodae.sante.gouv.fr](mailto:contact@geodae.sante.gouv.fr)
-* Ouvrir un ticket sur [le dépôt Github du schéma](https://github.com/Alkante35/schema-dae/issues/new)
+* Ouvrir un ticket sur [le dépôt Github du schéma](https://gitlab.com/arsante/atlasante/schema-dae/issues/new)
 
 
 
