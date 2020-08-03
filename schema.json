@@ -113,7 +113,7 @@
       "type": "string",
       "constraints": {
         "required": false,
-        "pattern": "^\\d{5}$"
+        "pattern": "^\\d[AB\\d]\\d{3}$"
       },
       "example": "75056"
     },
